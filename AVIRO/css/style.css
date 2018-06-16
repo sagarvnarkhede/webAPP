@@ -308,20 +308,27 @@ a:hover {
 }
 
 #partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+  background: url(../images/aviro/solar3.jpg) 50% 50% no-repeat;
   background-size: cover;
 }
 
 #partner {
   color: #fff;
   text-align: center;
-  padding:100px;
+  padding:20px;
+}
+
+.partners{
+  position: relative;
+  left:20%;
 }
 
 #partner h2 {
   color: #fff;
   font-size:30px;
   font-weight:600;
+  position: relative;
+  top:25px;
 }
 
 #partner p {
